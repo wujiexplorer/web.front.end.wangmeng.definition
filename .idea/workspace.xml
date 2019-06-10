@@ -1,143 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ee8d03a-2f8a-461b-8509-3e2811aad57f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/bpm-app/.babelrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/.postcssrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/.settings/.jsdtscope" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/build/build.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/build/check-versions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/build/dev-server.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/build/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/build/utils.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/build/vue-loader.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/build/webpack.base.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/build/webpack.dev.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/build/webpack.prod.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/build/webpack.test.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/config/dev.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/config/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/config/prod.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/config/test.env.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/App.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/HELP-US-OUT.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/css/font-awesome.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/css/font-awesome.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/fonts/fontawesome-webfont.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/less/animated.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/less/bordered-pulled.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/less/core.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/less/fixed-width.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/less/font-awesome.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/less/icons.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/less/larger.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/less/list.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/less/mixins.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/less/path.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/less/rotated-flipped.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/less/screen-reader.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/less/stacked.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/less/variables.less" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/scss/_animated.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/scss/_bordered-pulled.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/scss/_core.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/scss/_fixed-width.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/scss/_icons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/scss/_larger.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/scss/_list.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/scss/_path.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/scss/_rotated-flipped.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/scss/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/scss/_stacked.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/font-awesome/scss/font-awesome.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/css/weui/weui.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/vux_logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/webuploader/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/webuploader/Uploader.swf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/webuploader/webuploader.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/webuploader/webuploader.custom.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/webuploader/webuploader.custom.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/webuploader/webuploader.fis.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/webuploader/webuploader.flashonly.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/webuploader/webuploader.flashonly.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/webuploader/webuploader.html5only.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/webuploader/webuploader.html5only.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/webuploader/webuploader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/webuploader/webuploader.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/webuploader/webuploader.noimage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/webuploader/webuploader.noimage.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/webuploader/webuploader.nolog.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/webuploader/webuploader.nolog.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/webuploader/webuploader.withoutimage.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/webuploader/webuploader.withoutimage.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/ztree/css/img/left_menu.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/ztree/css/img/left_menu.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/ztree/css/img/left_menuForOutLook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/ztree/css/img/line_conn.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/ztree/css/img/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/ztree/css/img/zTreeStandard.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/ztree/css/img/zTreeStandard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/ztree/css/img/zTreeStandard_old.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/ztree/css/left_menuForOutLook.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/ztree/css/left_menuForOutLook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/ztree/css/outLook.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/ztree/css/zTreeStyle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/ztree/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/assets/ztree/jquery.ztree.all.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/components/bpm/instanceImageDialog.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/components/bpm/opinionDialog.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/components/bpm/opinionHistoryDialog.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/components/form/abCheckbox.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/components/form/abCustDialog.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/components/form/abCustDialogShowList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/components/form/abCustDialogShowTree.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/components/form/abDict.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/components/form/abScroller.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/components/form/abUpload.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/components/user/login.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/components/user/loginDialog.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/components/user/userInfo.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/router/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/service/bpm/bpmService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/service/common/baseService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/service/common/dynamicComponent.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/service/common/tools.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/service/form/formService.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/service/form/formValidator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/view/Home.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/view/bpm/applyList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/view/bpm/approveList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/view/bpm/definitionList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/view/bpm/demo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/view/bpm/draftList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/view/bpm/instanceDetail.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/view/bpm/start.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/view/bpm/taskComplate.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/view/bpm/todoTaskList.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/src/view/test.vue" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/static/.gitkeep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/test/e2e/custom-assertions/elementCount.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/test/e2e/nightwatch.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/test/e2e/runner.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bpm-app/test/e2e/specs/test.js" afterDir="false" />
+    <list default="true" id="7ee8d03a-2f8a-461b-8509-3e2811aad57f" name="Default Changelist" comment="敏捷流程开发平台，企业级流程解决方案， 前后端分离，模块化，超低耦合。 基于activiti5.22，零java代码即可做到复杂业务的流程实施">
+      <change afterPath="$PROJECT_DIR$/vueblog/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/components/ArticleList.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/components/BlogCfg.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/components/BlogDetail.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/components/BlogTable.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/components/CateMana.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/components/DataCharts.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/components/Home.bak.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/components/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/components/Login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/components/PostArticle.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/components/UserMana.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/styles/element-variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/utils/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/utils/filter_utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/src/utils/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vueblog/static/.gitkeep" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -150,13 +52,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/bpm-app/src/view/bpm/demo.html">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -170,7 +66,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="CatdeaLogs" />
       <pane id="ProjectPane">
         <subPane>
@@ -179,29 +74,12 @@
               <item name="web.front.end.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
               <item name="web.front.end.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="web.front.end.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web.front.end.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
-              <item name="bpm-app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web.front.end.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web.front.end.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
-              <item name="bpm-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web.front.end.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web.front.end.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
-              <item name="bpm-app" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="view" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -242,7 +120,8 @@
       <updated>1559295317912</updated>
       <workItem from="1559295319312" duration="1777000" />
       <workItem from="1559524935024" duration="4834000" />
-      <workItem from="1559696738226" duration="4869000" />
+      <workItem from="1559696738226" duration="6037000" />
+      <workItem from="1559809836099" duration="1485000" />
     </task>
     <task id="LOCAL-00001" summary="admin 123456 测试的用户名和密码">
       <created>1559296111746</created>
@@ -265,16 +144,23 @@
       <option name="project" value="LOCAL" />
       <updated>1559705967906</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="敏捷流程开发平台，企业级流程解决方案， 前后端分离，模块化，超低耦合。 基于activiti5.22，零java代码即可做到复杂业务的流程实施">
+      <created>1559805836523</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1559805836523</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11480000" />
+    <option name="totallyTimeSpent" value="14133000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1062" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1062" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.277897" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19366953" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -316,7 +202,8 @@
     <MESSAGE value="admin 123456 测试的用户名和密码" />
     <MESSAGE value="vue element npm -g install cnpm  taobao 镜像 单独install module saas" />
     <MESSAGE value="http://localhost:8080/index.html#/emp/basic http://localhost:8082/index.html#/emp/basic&#10;前后端分离 前端要占用一个端口，后端要占用一个端口&#10;前后端不分离，前后端共享一个端口" />
-    <option name="LAST_COMMIT_MESSAGE" value="http://localhost:8080/index.html#/emp/basic http://localhost:8082/index.html#/emp/basic&#10;前后端分离 前端要占用一个端口，后端要占用一个端口&#10;前后端不分离，前后端共享一个端口" />
+    <MESSAGE value="敏捷流程开发平台，企业级流程解决方案， 前后端分离，模块化，超低耦合。 基于activiti5.22，零java代码即可做到复杂业务的流程实施" />
+    <option name="LAST_COMMIT_MESSAGE" value="敏捷流程开发平台，企业级流程解决方案， 前后端分离，模块化，超低耦合。 基于activiti5.22，零java代码即可做到复杂业务的流程实施" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mall-admin-web/src/api/oss.js">
@@ -392,6 +279,9 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/bpm-app/src/view/bpm/demo.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vueblog/src/utils/api.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
