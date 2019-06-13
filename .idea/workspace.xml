@@ -2,227 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ee8d03a-2f8a-461b-8509-3e2811aad57f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NiceFish/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/angular.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/e2e/app.e2e-spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/e2e/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/protractor.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/app.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/app.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/app.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/app.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/app.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/app.routes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/comment-list/comment-list.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/comment-list/comment-list.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/comment-list/comment-list.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/comment-list/comment-list.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/comment-list/comment-list.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/home/home.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/home/home.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/home/home.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/home/home.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/home/home.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/home/home.routes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/home/online-contact/online-contact.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/home/online-contact/online-contact.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/home/online-contact/online-contact.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/home/online-contact/online-contact.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post-detail-main/post-detail-main.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post-detail-main/post-detail-main.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post-detail-main/post-detail-main.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post-detail-main/post-detail-main.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post-detail/post-detail.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post-detail/post-detail.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post-detail/post-detail.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post-detail/post-detail.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post-headline/post-headline.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post-headline/post-headline.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post-headline/post-headline.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post-headline/post-headline.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post-list/post-list.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post-list/post-list.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post-list/post-list.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post-list/post-list.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post.routes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/post.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/write-post/write-post.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/write-post/write-post.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/write-post/write-post.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/write-post/write-post.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/write-post/write-post.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/post/write-post/write-post.routes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/retrieve-pwd/retrieve-pwd.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/retrieve-pwd/retrieve-pwd.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/retrieve-pwd/retrieve-pwd.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/retrieve-pwd/retrieve-pwd.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/retrieve-pwd/retrieve-pwd.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/sign-in/sign-in.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/sign-in/sign-in.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/sign-in/sign-in.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/sign-in/sign-in.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/sign-in/sign-in.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/sign-up/equal-validator.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/sign-up/sign-up.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/sign-up/sign-up.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/sign-up/sign-up.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/sign-up/sign-up.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/sign-up/sign-up.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-info/user-info.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-info/user-info.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-info/user-info.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-info/user-info.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-main/user-main.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-main/user-main.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-main/user-main.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-main/user-main.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-profile/dynamic-form/form-control.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-profile/dynamic-form/form-control.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-profile/dynamic-form/form-field/field-base.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-profile/dynamic-form/form-field/image.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-profile/dynamic-form/form-field/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-profile/dynamic-form/form-field/textarea.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-profile/dynamic-form/form-field/textbox.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-profile/user-profile.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-profile/user-profile.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-profile/user-profile.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user-profile/user-profile.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/blog/user/user.routes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/index.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/chart/chart.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/chart/chart.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/chart/chart.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/chart/chart.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/chart/echart-option.directive.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/content-mng/comment-table/comment-table.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/content-mng/comment-table/comment-table.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/content-mng/comment-table/comment-table.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/content-mng/comment-table/comment-table.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/content-mng/post-table/post-table.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/content-mng/post-table/post-table.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/content-mng/post-table/post-table.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/content-mng/post-table/post-table.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/content-mng/post-table/post-table.service.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/manage-main/manage-main.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/manage-main/manage-main.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/manage-main/manage-main.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/manage-main/manage-main.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/manage.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/manage.routes.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/permission-edit/permission-edit.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/permission-edit/permission-edit.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/permission-edit/permission-edit.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/permission-edit/permission-edit.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/permission-table/permission-table.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/permission-table/permission-table.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/permission-table/permission-table.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/permission-table/permission-table.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/role-edit/role-edit.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/role-edit/role-edit.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/role-edit/role-edit.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/role-edit/role-edit.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/role-table/role-table.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/role-table/role-table.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/role-table/role-table.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/role-table/role-table.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/user-table/user-table.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/user-table/user-table.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/user-table/user-table.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/permission/user-table/user-table.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/sys-param/sys-param.component.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/sys-param/sys-param.component.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/sys-param/sys-param.component.spec.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/manage/sys-param/sys-param.component.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/shared/animations/fade-in.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/shared/animations/fly-in.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/shared/auth-guard.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/shared/color.util.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/shared/pipes/boolean-pipe.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/shared/pipes/sanitize-html-pipe.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/shared/pipes/trim-string.pipe.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/shared/post.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/app/shared/shared.module.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/bootstrap-3.3.7-custom/config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/bootstrap-3.3.7-custom/css/bootstrap-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/bootstrap-3.3.7-custom/css/bootstrap-theme.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/bootstrap-3.3.7-custom/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/bootstrap-3.3.7-custom/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/bootstrap-3.3.7-custom/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/bootstrap-3.3.7-custom/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/bootstrap-3.3.7-custom/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/bootstrap-3.3.7-custom/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/bootstrap-3.3.7-custom/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/index.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/primeng-bootstrap-custom.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/primeng-theme/nova-light/fonts/open-sans-v15-latin-300.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/primeng-theme/nova-light/fonts/open-sans-v15-latin-300.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/primeng-theme/nova-light/fonts/open-sans-v15-latin-300.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/primeng-theme/nova-light/fonts/open-sans-v15-latin-300.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/primeng-theme/nova-light/fonts/open-sans-v15-latin-300.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/primeng-theme/nova-light/fonts/open-sans-v15-latin-700.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/primeng-theme/nova-light/fonts/open-sans-v15-latin-700.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/primeng-theme/nova-light/fonts/open-sans-v15-latin-700.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/primeng-theme/nova-light/fonts/open-sans-v15-latin-700.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/primeng-theme/nova-light/fonts/open-sans-v15-latin-700.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/primeng-theme/nova-light/fonts/open-sans-v15-latin-regular.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/primeng-theme/nova-light/fonts/open-sans-v15-latin-regular.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/primeng-theme/nova-light/fonts/open-sans-v15-latin-regular.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/primeng-theme/nova-light/fonts/open-sans-v15-latin-regular.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/primeng-theme/nova-light/fonts/open-sans-v15-latin-regular.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/css/primeng-theme/nova-light/theme.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/i18n/en.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/i18n/zh.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/imgs/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/imgs/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/imgs/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/imgs/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/imgs/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/imgs/angular2-small.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/imgs/angular2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/imgs/bundle-report.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/imgs/headline.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/imgs/img-alt.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/imgs/nice-fish.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/imgs/qq-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/imgs/qr-code.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/assets/imgs/wx-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/documentation/dependencies.dot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/documentation/dependencies.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/documentation/dependencies.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/documentation/dependencies.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/environments/environment.dev.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/environments/environment.prod.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/environments/environment.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/favicon-16x16.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/favicon-32x32.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/main.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/mock-data/comment-mock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/mock-data/forget-pwd-mock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/mock-data/post-mock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/mock-data/postlist-mock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/mock-data/postlist-search-mock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/mock-data/user-login-mock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/mock-data/user-register-mock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/mock-data/userlist-mock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/polyfills.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/styles.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/test.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/tsconfig.app.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/src/typings.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/tsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/tslint.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/unit-test-report/report.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NiceFish/yarn.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-spring-boot/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-spring-boot/docs/CNAME" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-spring-boot/docs/css/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-spring-boot/docs/img/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-spring-boot/docs/img/spring.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-spring-boot/docs/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/awesome-spring-boot/starter-list.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -235,13 +21,7 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/NiceFish/e2e/tsconfig.json">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -263,29 +43,6 @@
             <path>
               <item name="web.front.end.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
               <item name="web.front.end.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web.front.end.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web.front.end.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
-              <item name="NiceFish" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web.front.end.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web.front.end.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
-              <item name="NiceFish" type="462c0819:PsiDirectoryNode" />
-              <item name="e2e" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web.front.end.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web.front.end.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
-              <item name="NiceFish" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="web.front.end.wangmeng.definition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="web.front.end.wangmeng.definition" type="462c0819:PsiDirectoryNode" />
-              <item name="NiceFish" type="462c0819:PsiDirectoryNode" />
-              <item name="unit-test-report" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -336,7 +93,7 @@
       <workItem from="1559809836099" duration="5231000" />
       <workItem from="1560155627523" duration="2523000" />
       <workItem from="1560224685659" duration="2158000" />
-      <workItem from="1560241081059" duration="749000" />
+      <workItem from="1560241081059" duration="2085000" />
     </task>
     <task id="LOCAL-00001" summary="admin 123456 测试的用户名和密码">
       <created>1559296111746</created>
@@ -373,11 +130,18 @@
       <option name="project" value="LOCAL" />
       <updated>1560129923862</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Angular整合http server 提供服务">
+      <created>1560241950626</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1560241950626</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23309000" />
+    <option name="totallyTimeSpent" value="24645000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1062" extended-state="6" />
@@ -389,6 +153,7 @@
       <window_info id="Capture Tool" order="4" />
       <window_info id="UI Designer" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="TypeScript" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -426,7 +191,8 @@
     <MESSAGE value="http://localhost:8080/index.html#/emp/basic http://localhost:8082/index.html#/emp/basic&#10;前后端分离 前端要占用一个端口，后端要占用一个端口&#10;前后端不分离，前后端共享一个端口" />
     <MESSAGE value="敏捷流程开发平台，企业级流程解决方案， 前后端分离，模块化，超低耦合。 基于activiti5.22，零java代码即可做到复杂业务的流程实施" />
     <MESSAGE value="多用户blog" />
-    <option name="LAST_COMMIT_MESSAGE" value="多用户blog" />
+    <MESSAGE value="Angular整合http server 提供服务" />
+    <option name="LAST_COMMIT_MESSAGE" value="Angular整合http server 提供服务" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/mall-admin-web/src/api/oss.js">
@@ -508,6 +274,9 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/NiceFish/e2e/tsconfig.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/awesome-spring-boot/docs/css/layout.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
